@@ -1,4 +1,5 @@
-Files in this folder include raw data as well as supplementary files corresponding to the paper: "Oak leaf morphology may be more strongly shaped by climate than by phylogeny" Rubén Martín-Sánchez, Domingo Sancho-Knapik, David Alonso-Forn, Ana López-Ballesteros, Juan Pedro Ferrio, Andrew L. Hipp, José Javier Peguero-Pina, Eustaquio Gil-Pelegrín. 2024. 
+Files in this folder include raw data as well as supplementary files corresponding to the paper: "Oak leaf morphology may be more strongly shaped by climate than by phylogeny" Rubén Martín-Sánchez, Domingo Sancho-Knapik, David Alonso-Forn, Ana López-Ballesteros, Juan Pedro Ferrio, Andrew L. Hipp, José Javier Peguero-Pina, Eustaquio Gil-Pelegrín. 2024.
+(rmartin@cita-aragon.es)
 
 -Morphological data.xlsx: Mean values of each species for the four quantitative traits (LA, LW, ILB and LMA) and the five qualitative traits (Leaf Habit, Pubescence, Shape, Apex, Margin)
 LA: Leaf Area, expressed in cm2.
