@@ -13,4 +13,4 @@ Margin: Entire, Lobated, Serrate, Dentate, Undulate, Spinose or Crenate.
 
 -Climatic data.csv: Average Worldclim variables for each species used in the climatic PCA. See https://www.worldclim.org/data/bioclim.html for further details. "bio20" was calculated ex profeso for the paper as a result of BIO16 minus BIO17. 
 
--Supplementary Tables: Supplementary material containing the five supplementary tables for the main manuscript.
+-Supplementary Tables.xlsx: Supplementary material containing the five supplementary tables for the main manuscript.
